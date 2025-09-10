@@ -1,3 +1,3 @@
 function saludar(nombre) {
-    return `Hola ${nombr}`
+    return `Hola ${nombre}`
 }
